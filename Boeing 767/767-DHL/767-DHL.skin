@@ -1,0 +1,9 @@
+DHL 
+{
+	replaceTexture   = 767.png	767-DHL.png
+	preview          = 767-DHL-Preview.png
+	description      = DHL Skin for the 767 by FTamino
+	authorName       = Ftamino
+	AuthorID         = 
+	GUID             = 2c7b219a-6eec-4743-885f-45c1081cad05
+}
