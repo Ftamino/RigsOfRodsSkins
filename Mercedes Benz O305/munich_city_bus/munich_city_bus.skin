@@ -1,0 +1,15 @@
+Old Munich City Bus Skin for the Mercedes O305
+{
+    replaceTexture   = Merc_O305_AVF.png, munich_city_bus.png
+    replaceTexture   = Merc_O305_Dest1.png, munich_city_bus_Dest1.png
+    replaceTexture   = Merc_O305_Dest2.png, munich_city_bus_Dest2.png
+    replaceTexture   = Merc_O305_Dest3.png, munich_city_bus_Dest3.png
+    replaceTexture   = Merc_O305_Dest4.png, munich_city_bus_Dest4.png
+    replaceTexture   = Merc_O305_Dest5.png, munich_city_bus_Dest5.png
+    replaceTexture   = Merc_O305_Dest6.png, munich_city_bus_Dest6.png
+    preview          = munich_city_bus_preview.png
+    description      = Blue and White with a Munich sing
+    authorName       = Ftamino
+    AuthorID         = 39570
+    GUID             = 59419294-559f-44de-b463-cc15c5c34006
+}

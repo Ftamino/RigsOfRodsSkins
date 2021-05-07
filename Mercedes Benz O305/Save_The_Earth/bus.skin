@@ -1,0 +1,11 @@
+Save the Earth Skin
+{
+    replaceTexture   = Merc_O305_AVF.png, bus.png
+    replaceTexture   = Merc_O305_Int.png, bus_inside.png
+     replaceTexture   = Merc_O305_Dest0.png, bus_des.png
+    preview          = bus_prev.png
+    description      = Say our Meaning to the outhers and drive this bus
+    authorName       = Ftamino
+    AuthorID         = 39570
+    GUID             = 59419294-559f-44de-b463-cc15c5c34006
+}
