@@ -1,0 +1,12 @@
+Save the earth
+{
+	replaceTexture = CB95frbody.png, front.png
+	replaceTexture = CB95skin.png, side.png
+	replaceTexture = CB95number.png, blank.png
+	replaceTexture = CB95seat.png, seat.png
+	preview          = preview.png
+	description      = Save the earth Skin for the Fenton City Bus
+	authorName       = Ftamino
+	AuthorID         = 
+	GUID             = 032ea5cd-70fb-42b8-bd1d-787643a15e3d
+}
