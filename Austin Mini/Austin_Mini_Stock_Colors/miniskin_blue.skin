@@ -1,0 +1,12 @@
+Blue Skin for the Austin Mini
+{
+	replaceTexture = minibody.png, minibody_blue.png
+	replaceTexture = minihood.png, minihood_blue.png
+	replaceTexture = miniroofv2.png, miniroof-blue.png
+	replaceTexture = miniroofv2g.png , miniroof-blue.png
+	preview          = blue.png
+	description      = Blue Skin for the Austin Mini
+	authorName       = Ftamino
+	AuthorID         = 
+	GUID             = 17f2963b9ba9b8a0189319b6f33fe869e1cc863b
+}

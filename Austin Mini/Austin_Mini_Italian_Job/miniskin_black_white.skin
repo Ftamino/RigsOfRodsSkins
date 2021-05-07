@@ -1,0 +1,12 @@
+Italian Job Black Skin for the Austin Mini
+{
+	replaceTexture = minibody.png, minibody_black_white.png
+	replaceTexture = minihood.png, minihood_black_white.png
+	replaceTexture = miniroofv2.png, miniroof-new_black_white.png
+	replaceTexture = miniroofv2g.png , miniroof-new_black_white.png
+	preview          = mini_black_white.png
+	description      = Italian Job Black Skin for the Austin Mini
+	authorName       = Ftamino
+	AuthorID         = 
+	GUID             = 17f2963b9ba9b8a0189319b6f33fe869e1cc863b
+}

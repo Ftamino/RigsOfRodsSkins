@@ -1,0 +1,12 @@
+Orange Skin for the Austin Mini
+{
+	replaceTexture = minibody.png, minibody_orange.png
+	replaceTexture = minihood.png, minihood_orange.png
+	replaceTexture = miniroofv2.png, miniroof-orange.png
+	replaceTexture = miniroofv2g.png , miniroof-orange.png
+	preview          = orange.png
+	description      = Orange Skin for the Austin Mini
+	authorName       = Ftamino
+	AuthorID         = 
+	GUID             = 17f2963b9ba9b8a0189319b6f33fe869e1cc863b
+}

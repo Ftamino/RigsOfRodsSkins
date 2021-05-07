@@ -1,0 +1,12 @@
+Paddy Hopkirk Rallye Skin for the Austin Mini
+{
+	replaceTexture = minibody.png, minibody.png
+	replaceTexture = minihood.png, minihood.png
+	replaceTexture = miniroofv2.png, miniroof-new.png
+	replaceTexture = miniroofv2g.png , miniroof-new.png
+	preview          = AustinLHD-mini.png
+	description      = Paddy Hopkirk Rallye Skin for the Austin Mini
+	authorName       = Ftamino
+	AuthorID         = 
+	GUID             = 17f2963b9ba9b8a0189319b6f33fe869e1cc863b
+}

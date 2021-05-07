@@ -1,0 +1,12 @@
+Green Skin for the Austin Mini by Ftamino
+{
+	replaceTexture = minibody.png, minibody_green.png
+	replaceTexture = minihood.png, minihood_green.png
+	replaceTexture = miniroofv2.png, miniroof-green.png
+	replaceTexture = miniroofv2g.png , miniroof-green.png
+	preview          = green.png
+	description      = Green Skin for the Austin Mini by Ftamino
+	authorName       = Ftamino
+	AuthorID         = 
+	GUID             = 17f2963b9ba9b8a0189319b6f33fe869e1cc863b
+}
