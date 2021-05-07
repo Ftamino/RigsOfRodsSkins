@@ -1,0 +1,108 @@
+Autobus Oberbayern
+{
+	replaceTexture   = Enigma_ext.png		Enigma_AutobusOberbayern.png
+	replaceTexture   = Enigma_ext_arriva.png	Enigma_AutobusOberbayern.png
+	replaceTexture   = Enigma_ext_barraqueiro.png	Enigma_AutobusOberbayern.png
+	replaceTexture   = Enigma_ext_Block.png		Enigma_AutobusOberbayern.png
+	replaceTexture   = Enigma_ext_estremadura.png	Enigma_AutobusOberbayern.png
+	replaceTexture   = Enigma_ext_Executive.png	Enigma_AutobusOberbayern.png
+	replaceTexture   = Enigma_ext_Express.png	Enigma_AutobusOberbayern.png
+	replaceTexture   = Enigma_ext_iTunes.png	Enigma_AutobusOberbayern.png
+	replaceTexture   = Enigma_ext_Kulula.png	Enigma_AutobusOberbayern.png
+	replaceTexture   = Enigma_ext_mafrense.png	Enigma_AutobusOberbayern.png
+	replaceTexture   = Enigma_ext_McRae.png		Enigma_AutobusOberbayern.png
+	replaceTexture   = Enigma_ext_NatEx.png		Enigma_AutobusOberbayern.png
+	replaceTexture   = Enigma_ext_redex.png		Enigma_AutobusOberbayern.png
+	preview          = AutoOberbayernPreview.png
+	description      = Atobus Oberbayern Skin by FTamino
+	authorName       = Ftamino
+	AuthorID         = 
+	GUID             = 6aa9841f-f659-4177-9c24-a021584425fc
+}
+
+Flixbus
+{
+	replaceTexture   = Enigma_ext.png,		Enigma_Flixbus.png
+	replaceTexture   = Enigma_ext_arriva.png,	Enigma_Flixbus.png
+	replaceTexture   = Enigma_ext_barraqueiro.png,	Enigma_Flixbus.png
+	replaceTexture   = Enigma_ext_Block.png,	Enigma_Flixbus.png
+	replaceTexture   = Enigma_ext_estremadura.png,	Enigma_Flixbus.png
+	replaceTexture   = Enigma_ext_Executive.png,	Enigma_Flixbus.png
+	replaceTexture   = Enigma_ext_Express.png,	Enigma_Flixbus.png
+	replaceTexture   = Enigma_ext_iTunes.png,	Enigma_Flixbus.png
+	replaceTexture   = Enigma_ext_Kulula.png,	Enigma_Flixbus.png
+	replaceTexture   = Enigma_ext_mafrense.png,	Enigma_Flixbus.png
+	replaceTexture   = Enigma_ext_McRae.png,	Enigma_Flixbus.png
+	replaceTexture   = Enigma_ext_NatEx.png,	Enigma_Flixbus.png
+	replaceTexture   = Enigma_ext_redex.png,	Enigma_Flixbus.png
+	preview          = Flixbus.png
+	description      = Flixbus Skin by FTamino
+	authorName       = Ftamino
+	AuthorID         = 
+	GUID             = 6aa9841f-f659-4177-9c24-a021584425fc
+}
+
+Electric Flixbus (Blue)
+{
+	replaceTexture   = Enigma_ext.png,		Enigma_Flixbus_Electronik_blue.png
+	replaceTexture   = Enigma_ext_arriva.png,	Enigma_Flixbus_Electronik_blue.png
+	replaceTexture   = Enigma_ext_barraqueiro.png,	Enigma_Flixbus_Electronik_blue.png
+	replaceTexture   = Enigma_ext_Block.png,	Enigma_Flixbus_Electronik_blue.png
+	replaceTexture   = Enigma_ext_estremadura.png,	Enigma_Flixbus_Electronik_blue.png
+	replaceTexture   = Enigma_ext_Executive.png,	Enigma_Flixbus_Electronik_blue.png
+	replaceTexture   = Enigma_ext_Express.png,	Enigma_Flixbus_Electronik_blue.png
+	replaceTexture   = Enigma_ext_iTunes.png,	Enigma_Flixbus_Electronik_blue.png
+	replaceTexture   = Enigma_ext_Kulula.png,	Enigma_Flixbus_Electronik_blue.png
+	replaceTexture   = Enigma_ext_mafrense.png,	Enigma_Flixbus_Electronik_blue.png
+	replaceTexture   = Enigma_ext_McRae.png,	Enigma_Flixbus_Electronik_blue.png
+	replaceTexture   = Enigma_ext_NatEx.png,	Enigma_Flixbus_Electronik_blue.png
+	replaceTexture   = Enigma_ext_redex.png,	Enigma_Flixbus_Electronik_blue.png
+	preview          = ElectricBlue.png
+	description      = Blue Electric Flixbus Skin by FTamino
+	authorName       = Ftamino
+	AuthorID         = 
+	GUID             = 6aa9841f-f659-4177-9c24-a021584425fc
+}
+
+Electric Flixbus 
+{
+	replaceTexture   = Enigma_ext.png,		Enigma_Flixbus_Electronik.png
+	replaceTexture   = Enigma_ext_arriva.png,	Enigma_Flixbus_Electronik.png
+	replaceTexture   = Enigma_ext_barraqueiro.png,	Enigma_Flixbus_Electronik.png
+	replaceTexture   = Enigma_ext_Block.png,	Enigma_Flixbus_Electronik.png
+	replaceTexture   = Enigma_ext_estremadura.png,	Enigma_Flixbus_Electronik.png
+	replaceTexture   = Enigma_ext_Executive.png,	Enigma_Flixbus_Electronik.png
+	replaceTexture   = Enigma_ext_Express.png,	Enigma_Flixbus_Electronik.png
+	replaceTexture   = Enigma_ext_iTunes.png,	Enigma_Flixbus_Electronik.png
+	replaceTexture   = Enigma_ext_Kulula.png,	Enigma_Flixbus_Electronik.png
+	replaceTexture   = Enigma_ext_mafrense.png,	Enigma_Flixbus_Electronik.png
+	replaceTexture   = Enigma_ext_McRae.png,	Enigma_Flixbus_Electronik.png
+	replaceTexture   = Enigma_ext_NatEx.png,	Enigma_Flixbus_Electronik.png
+	replaceTexture   = Enigma_ext_redex.png,	Enigma_Flixbus_Electronik.png
+	preview          = electric.png
+	description      = Blue Electric Flixbus Skin by FTamino
+	authorName       = Ftamino
+	AuthorID         = 
+	GUID             = 6aa9841f-f659-4177-9c24-a021584425fc
+}
+
+Flixbus Old Livery
+{
+	replaceTexture   = Enigma_ext.png,		Enigma_Flixbus_old_Livery.png
+	replaceTexture   = Enigma_ext_arriva.png,	Enigma_Flixbus_old_Livery.png
+	replaceTexture   = Enigma_ext_barraqueiro.png,	Enigma_Flixbus_old_Livery.png
+	replaceTexture   = Enigma_ext_Block.png,	Enigma_Flixbus_old_Livery.png
+	replaceTexture   = Enigma_ext_estremadura.png,	Enigma_Flixbus_old_Livery.png
+	replaceTexture   = Enigma_ext_Executive.png,	Enigma_Flixbus_old_Livery.png
+	replaceTexture   = Enigma_ext_Express.png,	Enigma_Flixbus_old_Livery.png
+	replaceTexture   = Enigma_ext_iTunes.png,	Enigma_Flixbus_old_Livery.png
+	replaceTexture   = Enigma_ext_Kulula.png,	Enigma_Flixbus_old_Livery.png
+	replaceTexture   = Enigma_ext_mafrense.png,	Enigma_Flixbus_old_Livery.png
+	replaceTexture   = Enigma_ext_McRae.png,	Enigma_Flixbus_old_Livery.png
+	replaceTexture   = Enigma_ext_NatEx.png,	Enigma_Flixbus_old_Livery.png
+	replaceTexture   = Enigma_ext_redex.png,	Enigma_Flixbus_old_Livery.png
+	description      = Old Flixbus Livery Skin by FTamino
+	authorName       = Ftamino
+	AuthorID         = 
+	GUID             = 6aa9841f-f659-4177-9c24-a021584425fc
+}
