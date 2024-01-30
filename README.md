@@ -1,4 +1,3 @@
-# RigsOfRodsSkins
-Its for Issues and Preview Versions of my Rigs Of Rods Skins
+# Rigs of Rods Skins
 
-(Its inactive for now since i dont play Rigs of Rods verry often)
+This repo and the skins are no longer maintained. You can try to use them on your own risk.
